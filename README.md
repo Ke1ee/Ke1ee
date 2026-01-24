@@ -2,7 +2,7 @@
 
 ⚡ Work Experience:
     * Software Engineer Intern at Techify(Disbanded)
-    * Server at Longhorn Steakhouse
+  
 
 🌱 Interests: 
     * Machine Learning
