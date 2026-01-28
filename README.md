@@ -4,7 +4,7 @@
 
 **Software Engineer** based in **Orlando, FL** 🌴
 
-I'm a Computer Science student at UCF passionate about building seamless user experiences and crafting clean, maintainable code. When I'm not coding, you'll find me [HOBBY_1] or [HOBBY_2].
+I'm a Computer Science student at UCF passionate about building seamless user experiences and crafting clean, maintainable code. When I'm not coding, you'll find me at the gym or hanging out with my cats.
 
 - 🔭 Currently working on **building my resume**
 - 🌱 Learning **Backend Systems in JAVA**
@@ -25,14 +25,14 @@ I'm a Computer Science student at UCF passionate about building seamless user ex
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
 
 **Frameworks & Libraries**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
@@ -57,10 +57,10 @@ I'm a Computer Science student at UCF passionate about building seamless user ex
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**AniSearch**](https://github.com/kelee/REPO_NAME) | Upload any anime image and get detailed info like anime name, episode, and exact timestamp | `Node.js` `JavaScript` `Trace.moe API` `Axios` |
-| [**Weather App**](https://github.com/kelee/REPO_NAME) | Real-time weather data visualization using OpenWeatherMap API | `JavaScript` `HTML` `CSS` `OpenWeatherMap API` |
-| [**Snake Game**](https://github.com/kelee/REPO_NAME) | Classic Snake Game with smooth gameplay, collision detection, and score tracking | `Java` `Swing` |
-| [**Portfolio Website**](https://github.com/kelee/REPO_NAME) | Personal portfolio with sleek animations and interactive features | `HTML` `CSS` `Bootstrap 5` `JavaScript` |
+| [**AniSearch**](https://github.com/Ke1ee/REPO_NAME) | Upload any anime image and get detailed info like anime name, episode, and exact timestamp | `Node.js` `JavaScript` `Trace.moe API` `Axios` |
+| [**Weather App**](https://github.com/Ke1ee/REPO_NAME) | Real-time weather data visualization using OpenWeatherMap API | `JavaScript` `HTML` `CSS` `OpenWeatherMap API` |
+| [**Snake Game**](https://github.com/Ke1ee/REPO_NAME) | Classic Snake Game with smooth gameplay, collision detection, and score tracking | `Java` `Swing` |
+| [**Portfolio Website**](https://github.com/Ke1ee/REPO_NAME) | Personal portfolio with sleek animations and interactive features | `HTML` `CSS` `Bootstrap 5` `JavaScript` |
 <!-- ADD NEW PROJECT HERE -->
 
 ---
@@ -75,12 +75,12 @@ I'm a Computer Science student at UCF passionate about building seamless user ex
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ke1ee&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ke1ee&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ke1ee&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ke1ee&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ke1ee&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Ke1ee&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -94,7 +94,7 @@ I'm a Computer Science student at UCF passionate about building seamless user ex
   <a href="mailto:Keleeflorio00@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/kelee">
+  <a href="https://github.com/Ke1ee">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <!-- ADD PORTFOLIO LINK IF YOU HAVE ONE
@@ -107,33 +107,9 @@ I'm a Computer Science student at UCF passionate about building seamless user ex
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kelee&color=6C63FF&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Ke1ee&color=6C63FF&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </p>
 
 <p align="center">
   <b>💼 Open to opportunities!</b>
 </p>
-
-<!-- 
-╔══════════════════════════════════════════════════════════════════╗
-║                     🎨 CUSTOMIZATION TIPS                        ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  THINGS TO FILL IN:                                              ║
-║  • [HOBBY_1] and [HOBBY_2] - your interests outside coding       ║
-║  • [CURRENT_PROJECT] - what you're building now                  ║
-║  • [WHAT_YOURE_LEARNING] - new tech you're picking up            ║
-║  • [FUN_FACT_ABOUT_YOU] - something unique about you             ║
-║  • Update repo links in Featured Projects table                  ║
-║  • Verify your GitHub username is correct (currently "kelee")    ║
-║                                                                  ║
-║  BADGE COLORS/THEMES:                                            ║
-║  • Find more badges: https://shields.io                          ║
-║  • Badge styles: flat, flat-square, plastic, for-the-badge       ║
-║                                                                  ║
-║  STATS THEMES (change &theme=tokyonight to any of these):        ║
-║  • tokyonight, radical, merko, gruvbox, dracula                  ║
-║  • onedark, cobalt, synthwave, highcontrast, dark                ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
--->
