@@ -67,7 +67,7 @@ I'm a Computer Science student at UCF passionate about building seamless user ex
 
 ## 💼 Experience
 
-**Software Engineer Intern** @ Teachify *(Jan 2024 – Apr 2024)*
+**Software Engineer Intern** @ REDACTED *(Jan 2024 – Apr 2024)*
 > Built responsive, device-agnostic UIs with React, collaborated with cross-functional teams, and conducted user testing to improve platform usability.
 
 ---
