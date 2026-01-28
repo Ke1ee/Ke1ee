@@ -75,20 +75,23 @@ I'm a Computer Science student at UCF passionate about building seamless user ex
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ke1ee&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ke1ee&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ke1ee&theme=tokyonight" alt="GitHub Stats" height="165"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Ke1ee&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
----
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ke1ee&theme=tokyonight" alt="GitHub Profile Details"/>
+</p>
+
 
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/keleeUCF">
+  <a href="https://linkedin.com/in/kelee">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:Keleeflorio00@gmail.com">
