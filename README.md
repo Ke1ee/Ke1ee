@@ -57,10 +57,10 @@ I'm a Computer Science student at UCF passionate about building seamless user ex
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**AniSearch**](https://github.com/Ke1ee/REPO_NAME) | Upload any anime image and get detailed info like anime name, episode, and exact timestamp | `Node.js` `JavaScript` `Trace.moe API` `Axios` |
+| [**MultiTenant SaaS Platform**](https://github.com/Ke1ee/REPO_NAME) | A multi-tenant SaaS backend where multiple organizations use the same system while keeping their data completely isolated. Features JWT authentication, role-based access control, and a project/task management module. Includes a React frontend for demo. | `Java` `Spring Boot` `Spring Security` `Spring Data JPA` `PostgreSQL` `Flyway` `JWT` `Maven` |
 | [**Weather App**](https://github.com/Ke1ee/REPO_NAME) | Real-time weather data visualization using OpenWeatherMap API | `JavaScript` `HTML` `CSS` `OpenWeatherMap API` |
 | [**Snake Game**](https://github.com/Ke1ee/REPO_NAME) | Classic Snake Game with smooth gameplay, collision detection, and score tracking | `Java` `Swing` |
-| [**Portfolio Website**](https://github.com/Ke1ee/REPO_NAME) | Personal portfolio with sleek animations and interactive features | `HTML` `CSS` `Bootstrap 5` `JavaScript` |
+| [**AniSearch**](https://github.com/Ke1ee/REPO_NAME) | Upload any anime image and get detailed info like anime name, episode, and exact timestamp | `Node.js` `JavaScript` `Trace.moe API` `Axios` |
 <!-- ADD NEW PROJECT HERE -->
 
 ---
