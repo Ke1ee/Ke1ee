@@ -1,6 +1,6 @@
 # Hey there! I'm Kelee Florio 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&width=435&lines=Software+Engineer;CS+Student+%40+UCF;Building+Cool+Things+on+the+Web)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&width=435&lines=Software+Engineer;CS+Student+%40+UCF;Learning+New+Things+:3)](https://git.io/typing-svg)
 
 **Software Engineer** based in **Orlando, FL** 🌴
 
