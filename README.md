@@ -6,7 +6,7 @@
 
 I'm a Computer Science student at UCF passionate about building seamless user experiences and crafting clean, maintainable code. When I'm not coding, you'll find me at the gym or hanging out with my cats.
 
-- 🔭 Currently working on **building my resume**
+- 🔭 Currently working on **AI Code Review Bot**
 - 🌱 Learning **Backend Systems in JAVA**
 - 💬 Ask me about **Infrastructure, Databases, APIs**
 - ⚡ Fun fact: **I'm ambidextrous**
