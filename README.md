@@ -205,7 +205,7 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ke1ee&theme=github_dark" alt="Stats" height="180"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ke1ee&theme=github_dark" alt="Most commit language" height="180"/>
 
-<img src="https://streak-stats.demolab.com?user=Ke1ee&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=E8944A&currStreakLabel=8B5CF6" alt="Streak"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ke1ee&theme=github_dark" alt="Profile details"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ke1ee&theme=github_dark&utcOffset=-4" alt="Productive time" height="180"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ke1ee&theme=github_dark" alt="Repos per language" height="180"/>
